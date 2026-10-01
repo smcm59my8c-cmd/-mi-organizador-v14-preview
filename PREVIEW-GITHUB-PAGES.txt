@@ -1,0 +1,12 @@
+MI ORGANIZADOR · V14-PREVIEW
+
+Esta copia está preparada para una prueba independiente en GitHub Pages.
+No cambia tu sitio de Netlify y no consume créditos de Netlify.
+
+1. Crea un repositorio NUEVO y público en GitHub (GitHub Free permite Pages en repositorios públicos).
+2. Sube el CONTENIDO de esta carpeta a la raíz del repositorio: index.html, sw.js, manifest.webmanifest, all.js, icons/, .nojekyll.
+3. En GitHub: Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main → Folder: /(root) → Save.
+4. Abre la URL que GitHub Pages muestre.
+5. Comprueba primero que aparece V14-PREVIEW y después prueba el inicio de sesión.
+
+IMPORTANTE: esta es una prueba. No sustituye todavía la versión pública de Netlify.

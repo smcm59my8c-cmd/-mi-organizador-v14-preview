@@ -1,0 +1,14 @@
+{
+  "name": "Mi organizador · Sandra",
+  "short_name": "Mi organizador",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5fb",
+  "theme_color": "#7967d8",
+  "description": "Organizador personal de tareas, estudios, trabajo y recordatorios.",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
